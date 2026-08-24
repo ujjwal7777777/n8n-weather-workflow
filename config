@@ -1,1 +1,9 @@
+{
+  "OPEN_METEO_GEOCODING_URL": "https://geocoding-api.open-meteo.com/v1/search",
+  "OPEN_METEO_FORECAST_URL": "https://api.open-meteo.com/v1/forecast",
+  "DEFAULT_LANGUAGE": "en",
+  "DEFAULT_FORECAST_DAYS": 1,
+  "API_TIMEOUT_MS": 15000,
+  "MAX_RETRIES": 3
+}
 
