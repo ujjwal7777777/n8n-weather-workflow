@@ -1,4 +1,4 @@
-# n8n-weather-workflow
+# this is my n8n-weather-workflow
 # AI Weather Agent (n8n + Open-Meteo)
 
 Importable n8n Cloud workflow that turns a natural-language location into the **latest current weather** from Open-Meteo. The AI only extracts the place name and formats the report. All temperature, wind, humidity, and forecast numbers come from the API.
